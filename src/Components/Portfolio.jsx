@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/programmer.jpg;
+import image from "../images/programmer.jpg";
 
 const imageAltText = "vector picture with laptop and User interface";
 
