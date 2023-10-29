@@ -15,8 +15,8 @@ body {
   scroll-behavior: smooth;
 }
 
-#backgroundCanvas, 
-#starsCanvas {
+canvas#backgroundCanvas, 
+canvas#starsCanvas {
   position: absolute;
   top: 0;
   left: 0;
