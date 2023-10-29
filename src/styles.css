@@ -14,6 +14,13 @@ body {
   width: 100%;
 }
 
+#backgroundCanvas, 
+#starsCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
 div#main {
   display: flex;
   flex-direction: column;
@@ -124,9 +131,3 @@ img.socialIcon {
   width: 30px;
 }
 
-#backgroundCanvas, 
-#starsCanvas {
-  position: absolute;
-  top: 0;
-  left: 0;
-}
