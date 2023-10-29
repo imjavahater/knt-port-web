@@ -46,7 +46,7 @@ const projectList = [
     title: "Interactive Kendrypto Website",
     description:
       "Created using JS, HTML, and CSS, this is for the future reference for building an interactive-gradient website.",
-    url: "hhttps://imjavahater.github.io/interactive-crypto-web/",
+    url: "https://imjavahater.github.io/interactive-crypto-web/",
   },
   {
     title: "Introductory of my Github",
