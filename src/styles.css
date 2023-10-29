@@ -123,3 +123,10 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+#backgroundCanvas, 
+#starsCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
