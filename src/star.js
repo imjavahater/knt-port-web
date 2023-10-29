@@ -33,7 +33,26 @@ const defaultOptions = {
   bounceOnEdges: false, // Set to true if you want the stars to bounce on the edges. Default is true.
 };
 
-const userOptions = {};
+const userOptions = {
+  numberOfStars: 400,
+  maxDistance: 60,
+  starSize: { min: 2, max: 4 },
+  speedFactor: 0.6,
+  mouseRadius: 200,
+  starColor: "#FAFAFA",
+  connectionColor: "rgba(250, 250, 250, 0.6)",
+  canvasBackgroundColor: "#1F2041",
+  lineThickness: 1,
+  starShapes: ["circle"],
+  randomStarSpeeds: true,
+  rotationSpeed: { min: 0.001, max: 0.003 },
+  connectionsWhenNoMouse: true,
+  percentStarsConnecting: 15,
+  connectionLinesDashed: false,
+  canvasGradient: ["#1f2041", "#4b6cb7", "#182848"],
+  starDensity: "medium",
+  interactive: true,
+};
 
 // Star densities corresponding to 'low', 'medium', 'high', and 'ultra'
 const starDensities = {
