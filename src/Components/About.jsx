@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm currently full-time Analyst in a Financial-Technology company based in Norwalk. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm currently full-time Analyst in a Financial-Technology company based in Connecticut, USA. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
